@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Homaworks-from-Ignat/static/css/main.0453b5c8.css",
-    "main.js": "/Homaworks-from-Ignat/static/js/main.e9f2f4a3.js",
+    "main.css": "/Homaworks-from-Ignat/static/css/main.977b944f.css",
+    "main.js": "/Homaworks-from-Ignat/static/js/main.fb8c008d.js",
     "static/media/backgroundIm.jpg": "/Homaworks-from-Ignat/static/media/backgroundIm.26f9e4e4ed4d9d7e4bd9.jpg",
     "static/media/ava.png": "/Homaworks-from-Ignat/static/media/ava.e8ac51ee6eaf9d909c7f.png",
     "static/media/checked.png": "/Homaworks-from-Ignat/static/media/checked.777004686e409c822d5c.png",
+    "static/media/menuToggle.png": "/Homaworks-from-Ignat/static/media/menuToggle.340c0d429ebbbf403d7f.png",
     "index.html": "/Homaworks-from-Ignat/index.html",
-    "main.0453b5c8.css.map": "/Homaworks-from-Ignat/static/css/main.0453b5c8.css.map",
-    "main.e9f2f4a3.js.map": "/Homaworks-from-Ignat/static/js/main.e9f2f4a3.js.map"
+    "main.977b944f.css.map": "/Homaworks-from-Ignat/static/css/main.977b944f.css.map",
+    "main.fb8c008d.js.map": "/Homaworks-from-Ignat/static/js/main.fb8c008d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0453b5c8.css",
-    "static/js/main.e9f2f4a3.js"
+    "static/css/main.977b944f.css",
+    "static/js/main.fb8c008d.js"
   ]
 }
