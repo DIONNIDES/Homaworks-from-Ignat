@@ -1,0 +1,21 @@
+.spanDefault{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    text-align: left;
+    padding-top: 10px;
+    border: 2px dashed indigo;
+    border-radius: 1rem;
+}
+
+.pen{
+    max-height: 40px;
+    background: inherit;
+    margin-right: 0.5rem;
+}
+.textSpan{
+    font-size: 1.2rem;
+    margin-top: 5px;
+    position: absolute;
+}
