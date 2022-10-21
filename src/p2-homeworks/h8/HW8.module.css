@@ -1,4 +1,4 @@
-.user{
+.user {
     display: grid;
     grid-template-columns: 1fr 50px;
     height: 1.6em;
@@ -6,19 +6,19 @@
     grid-gap: 0.3rem;
 }
 
-.user_name{
+.user_name {
     border: 2px solid black;
     border-radius: 0.3rem;
     background: lightskyblue;
 }
 
-.user_age{
+.user_age {
     border: 2px solid black;
     border-radius: 0.3rem;
     background: cornflowerblue;
 }
 
-.users_wrapper{
+.users_wrapper {
     width: 250px;
     margin: 0 auto;
 }

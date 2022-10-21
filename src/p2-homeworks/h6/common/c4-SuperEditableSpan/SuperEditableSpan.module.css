@@ -1,4 +1,4 @@
-.spanDefault{
+.spanDefault {
     position: relative;
     width: 150px;
     height: 40px;
@@ -9,12 +9,13 @@
     border-radius: 1rem;
 }
 
-.pen{
+.pen {
     max-height: 40px;
     background: inherit;
     margin-right: 0.5rem;
 }
-.textSpan{
+
+.textSpan {
     font-size: 1.2rem;
     margin-top: 5px;
     position: absolute;
